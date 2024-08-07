@@ -1,6 +1,6 @@
 ## Information
 
-* Dave Stein, email
+* Dave Stein, des8963@nyu.edu
 * Time: Thursdays 12:10PM - 2:40PM EST
 * Location:
 * [Homework Wiki](https://github.com/ITPNYU/ICM-2024-Code/wiki/Homework-Dave-02)
