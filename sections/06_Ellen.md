@@ -1,4 +1,4 @@
-## Information
+  ## Information
 
 * Ellen Nickles ellen.nickles@nyu.edu
 * Time: Tuesday 12:10PM - 2:40PM EST
