@@ -4,7 +4,7 @@
 - My email: john.henry.thompson@nyu.edu
 - Time: Thursdays 12:10PM - 2:40PM EST
 - Location: 370 Jay St, Room ??? Loc: Brooklyn Campus
-- [Homework Wiki](https://github.com/ITPNYU/ICM-2024-Code/wiki/Homework-John-Henry-02)
+- [Homework Wiki](https://github.com/ITPNYU/ICM-2024-Code/wiki/Homework-John-Henry-05)
 - [Office hours: Wednesday 1:00pm - 5:30pm ](https://calendar.app.google/jKKcXZgNYMk7F2mY8)
 
 ## Dates
