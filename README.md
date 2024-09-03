@@ -12,12 +12,12 @@ The following is an overview of how we will be spending class time over the next
 * 7 -- [The DOM](weeks/07_dom.md) and Final Project Presentations
 
 ## Section Info
-* 01 [Mimi](sections/01_Mimi.md) | [Homework](https://github.com/ITPNYU/ICM-2024-Code/wiki/Homework-MimiY-01)
-* 05 [Dave](sections/02_Dave.md) | [Homework](https://github.com/ITPNYU/ICM-2024-Code/wiki/Homework-Dave-02)
-* 06 [Mimi](sections/03_Mimi.md) | [Homework](https://github.com/ITPNYU/ICM-2024-Code/wiki/Homework-MimiY-03)
+* 01 [Mimi](sections/01_Mimi.md) | [Homework](https://github.com/ITPNYU/ICM-2024-Code/wiki/Homework-Mimi-01)
+* 02 [Dave](sections/02_Dave.md) | [Homework](https://github.com/ITPNYU/ICM-2024-Code/wiki/Homework-Dave-02)
+* 03 [Mimi](sections/03_Mimi.md) | [Homework](https://github.com/ITPNYU/ICM-2024-Code/wiki/Homework-Mimi-03)
 * 04 [Allison Parrish](sections/04_Allison.md) | [Homework](https://github.com/ITPNYU/ICM-2024-Code/wiki/Homework-Allison-04)
 * 05 [John-Henry](sections/05_JohnHenry.md) | [Homework](https://github.com/ITPNYU/ICM-2024-Code/wiki/Homework-John-Henry-05)
-* 03 [Ellen](sections/03_Ellen.md) | [Homework](https://github.com/ITPNYU/ICM-2024-Code/wiki/Homework-Ellen-06)
+* 06 [Ellen](sections/03_Ellen.md) | [Homework](https://github.com/ITPNYU/ICM-2024-Code/wiki/Homework-Ellen-06)
 * 07 [Nun](sections/07_Nun.md) | [Homework](https://github.com/ITPNYU/ICM-2024-Code/wiki/Homework-Nun-07)
 
 ## Questions and Discussion
