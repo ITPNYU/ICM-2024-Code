@@ -2,7 +2,7 @@
 
 * Dave Stein, des8963@nyu.edu
 * Time: Thursdays 12:10PM - 2:40PM EST
-* Location:
+* Location: Room 411
 * [Homework Wiki](https://github.com/ITPNYU/ICM-2024-Code/wiki/Homework-Dave-02)
 * [Office Hours](https://calendar.app.google/bTAVSxtH7pHe8C2v5)
 
