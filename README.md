@@ -24,11 +24,16 @@ The following is an overview of how we will be spending class time over the next
 - Find us on Discord under Help >> icm
 
 ## p5.js
-- The primary platform for the class is [p5.js](http://www.p5js.org/), a JavaScript library for creative coding.  We will start coding with the [web editor for p5.js](https://editor.p5js.org/).
+- The primary platform for the class is [p5.js](http://www.p5js.org/), a JavaScript library for creative coding.  
+- We will start coding with the [web editor for p5.js](https://editor.p5js.org/).
+- [p5.js Reference](https://p5js.org/reference/)
+- Getting Started with p5.js book: [NYU Library](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=4333728) | [Amazon](https://www.amazon.com/Getting-Started-p5-js-Interactive-JavaScript/dp/1457186772/ref=as_li_ss_tl?ie=UTF8&qid=1472840406&sr=8-1&keywords=getting+started+with+p5.js&linkCode=sl1&tag=natureofcode-20&linkId=e1804640b0769d9cce7f1af4eed997de)
 
 ## Extra Help
 - [Research Resident Office Hours](https://itp.nyu.edu/help/office-hours/)
-- ICM Help Sessions: TBD
+- ICM Help Sessions:
+   - Mondays 12:30-2pm Room 408
+   - Thursdays 3:30-5pm Room 410
 - [Coding Lab](https://codinglab.itp.io/) for drop-in help
 
 ## Inspiration
