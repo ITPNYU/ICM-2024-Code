@@ -5,6 +5,7 @@
 * Location: Room 411
 * [Homework Wiki](https://github.com/ITPNYU/ICM-2024-Code/wiki/Homework-Dave-02)
 * [Office Hours](https://calendar.app.google/bTAVSxtH7pHe8C2v5)
+* Socials: [Linked In](https://www.linkedin.com/in/davidestein/) [Instagram](https://www.instagram.com/colonelpanix/)
 
 ## Dates
 
