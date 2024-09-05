@@ -10,8 +10,9 @@ The following is an overview of how we will be spending class time over the next
 * 5 -- [Organization: Functions](weeks/05_functions.md)
 * 6 -- [More Repetition: Objects and Arrays](weeks/06_objects.md)
 * 7 -- [The DOM](weeks/07_dom.md) and Final Project Presentations
+  
 * 8 - 14 -- [ICM media](https://github.com/ITPNYU/ICM-2024-media)
-* 
+  
 ## Section Info
 * 01 [Mimi](sections/01_Mimi.md) | [Homework](https://github.com/ITPNYU/ICM-2024-Code/wiki/Homework-Mimi-01)
 * 02 [Dave](sections/02_Dave.md) | [Homework](https://github.com/ITPNYU/ICM-2024-Code/wiki/Homework-Dave-02)
