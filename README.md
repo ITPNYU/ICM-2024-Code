@@ -135,8 +135,8 @@ Tisch School of the Arts is dedicated to providing its students with a learning 
 ## STATEMENT OF PRINCIPLE
 Teachers and students work together to create a supportive learning environment. The educational experience in the classroom is one that is enhanced by integrating varying perspectives and learning modes brought by students.
 
-Previous Years
---------------
+# Previous Years
+
 - [2023](https://github.com/ITPNYU/ICM-2023-Code/)
 - [2022](https://github.com/ITPNYU/ICM-2022-Code/)
 - [2021](https://github.com/ITPNYU/ICM-2021-Code/)
@@ -147,7 +147,7 @@ Previous Years
 - [2016](https://github.com/ITPNYU/ICM-2016/)
 - [2015](https://github.com/ITPNYU/ICM-2015/)
 - [2014](https://github.com/ITPNYU/ICM-2014/)
-- [2013](https://github.com/ITPNYU/ICM-2013/)
+- [2013](https://github.com/ITPNYU/ICM-2013/)  -- pre github, dead links from here down
 - [2012](http://itp.nyu.edu/varwiki/Syllabus/ICM-All-F12)
 - [2011](http://itp.nyu.edu/varwiki/Syllabus/ICM-All-F11)
 - [2010](http://itp.nyu.edu/varwiki/Syllabus/ICM-All-F10)
