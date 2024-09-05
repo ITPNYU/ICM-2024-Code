@@ -147,7 +147,8 @@ Teachers and students work together to create a supportive learning environment.
 - [2016](https://github.com/ITPNYU/ICM-2016/)
 - [2015](https://github.com/ITPNYU/ICM-2015/)
 - [2014](https://github.com/ITPNYU/ICM-2014/)
-- [2013](https://github.com/ITPNYU/ICM-2013/)  -- pre github, dead links from here down
+- [2013](https://github.com/ITPNYU/ICM-2013/)
+- pre github, dead links from here down
 - [2012](http://itp.nyu.edu/varwiki/Syllabus/ICM-All-F12)
 - [2011](http://itp.nyu.edu/varwiki/Syllabus/ICM-All-F11)
 - [2010](http://itp.nyu.edu/varwiki/Syllabus/ICM-All-F10)
