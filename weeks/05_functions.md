@@ -1,6 +1,6 @@
 # Organization: Functions (and here comes Objects)
 
-*The videos in this section were created using a different editor for p5.js. All of the concepts should still apply, however, there are some minor changes. Most notably in JavaScript `let` is now the preferred way to declare a variable over `var`. If you would like to learn more about this you can [watch this video about let vs var](https://youtu.be/q8SHaDQdul0).*
+_The videos in this section were created using a different editor for p5.js. All of the concepts should still apply, however, there are some minor changes. Most notably in JavaScript `let` is now the preferred way to declare a variable over `var`. If you would like to learn more about this you can [watch this video about let vs var](https://youtu.be/q8SHaDQdul0)._
 
 ## Modularity
 
@@ -18,7 +18,7 @@
 
 # Object Literals
 
-- [Video](https://www.youtube.com/watch?v=-e5h4IGKZRY) | [Code](https://editor.p5js.org/codingtrain/sketches/6J5VPMbW)
+- [Video Object Literals](https://www.youtube.com/watch?v=-e5h4IGKZRY) | [Object Literals Code ](https://editor.p5js.org/codingtrain/sketches/6J5VPMbW)
 
 ## Going Further
 
